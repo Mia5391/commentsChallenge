@@ -1,0 +1,22 @@
+{
+  "name": "commentschallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mia5391/commentsChallenge.git"
+  },
+  "author": "MK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mia5391/commentsChallenge/issues"
+  },
+  "homepage": "https://github.com/Mia5391/commentsChallenge#readme"
+}
